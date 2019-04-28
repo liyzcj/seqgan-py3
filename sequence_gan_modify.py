@@ -47,7 +47,7 @@ positive_file_split = 'save/real_data.split.txt'
 negative_file_split = 'save/generator_sample.split.txt'
 eval_file = 'save/eval_file.txt'
 generated_num = 10000
-
+save_path = 'experiments/model1/'
 
 def generate_samples(sess, trainable_model, batch_size, generated_num, output_file):
     # Generate Samples
@@ -168,6 +168,7 @@ def main():
     config.gpu_options.allow_growth = True
     sess = tf.Session(config=config)
     sess.run(tf.global_variables_initializer())
+    saver = tf.train.Saver() # saver
 
     # First, use the oracle model to provide the positive examples, which are sampled from the oracle data distribution
     generate_samples(sess, target_lstm, BATCH_SIZE, generated_num, positive_file)
@@ -237,11 +238,11 @@ def main():
             log.write(buffer)
 
         # Train the discriminator
-        for _ in range(ADV_DIS_EPOCH_NUM): # 5 --> 1
+        for epoch in range(ADV_DIS_EPOCH_NUM): # 5 --> 1
             generate_samples(sess, generator, BATCH_SIZE, generated_num, negative_file)
             split_sentence_file(negative_file, negative_file_split)
             dis_data_loader.load_train_data(positive_file_split, negative_file_split)
-            for _ in range(IN_DIS_EPOCH): # 3 --> 1
+            for ep in range(IN_DIS_EPOCH): # 3 --> 1
                 dis_data_loader.reset_pointer()
                 for it in range(dis_data_loader.num_batch):
                     x_batch, y_batch = dis_data_loader.next_batch()
@@ -254,7 +255,9 @@ def main():
                     loss, _ = sess.run([discriminator.loss, discriminator.train_op], feed)
                     if it % 1000 == 0:
                         print (f'Total Epoch {epoch}, Gen Epoch {ep}, steps {it}, loss {loss}')
-
+        # Save model 
+        path = os.path.join(save_path, 'after-epoch')
+        saver.save(sess, path, global_step=total_batch+1)
     log.close()
 
 
