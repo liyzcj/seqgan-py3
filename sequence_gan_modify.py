@@ -26,6 +26,7 @@ PRE_DIS_EPOCH_NUM = 3   # 50 -> 1
 IN_DIS_EPOCH = 2 # 3 -> 1
 ADV_GEN_EPOCH_NUM = 2
 ADV_DIS_EPOCH_NUM = 1 # 5 -> 1
+VOCAB_SIZE = 5000
 #########################################################################################
 #  Discriminator  Hyper-parameters
 #########################################################################################
@@ -48,6 +49,7 @@ negative_file_split = 'save/generator_sample.split.txt'
 eval_file = 'save/eval_file.txt'
 generated_num = 10000
 save_path = 'experiments/model1/'
+LOG_FILE = os.path.join(save_path, 'experiment-log.txt')
 
 def generate_samples(sess, trainable_model, batch_size, generated_num, output_file):
     # Generate Samples
@@ -154,14 +156,13 @@ def main():
 
     gen_data_loader = Gen_Data_loader(BATCH_SIZE)
     likelihood_data_loader = Gen_Data_loader(BATCH_SIZE) # For testing
-    vocab_size = 5000
     dis_data_loader = Dis_dataloader(BATCH_SIZE)
 
-    generator = Generator(vocab_size, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN)
+    generator = Generator(VOCAB_SIZE, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN)
     target_params = pickle.load(open('save/target_params_py3.pkl', 'rb'))
-    target_lstm = TARGET_LSTM(vocab_size, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN, target_params) # The oracle model
+    target_lstm = TARGET_LSTM(VOCAB_SIZE, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN, target_params) # The oracle model
 
-    discriminator = Discriminator(sequence_length=20, num_classes=2, vocab_size=vocab_size, embedding_size=dis_embedding_dim, 
+    discriminator = Discriminator(sequence_length=20, num_classes=2, vocab_size=VOCAB_SIZE, embedding_size=dis_embedding_dim, 
                                 filter_sizes=dis_filter_sizes, num_filters=dis_num_filters, l2_reg_lambda=dis_l2_reg_lambda)
 
     config = tf.ConfigProto()
@@ -174,7 +175,7 @@ def main():
     generate_samples(sess, target_lstm, BATCH_SIZE, generated_num, positive_file)
     gen_data_loader.create_batches(positive_file)
 
-    log = open('save/experiment-log.txt', 'w')
+    log = open(LOG_FILE, 'w')
     #  pre-train generator
     print ('Start pre-training...')
     log.write('pre-training...\n')
