@@ -22,9 +22,9 @@ SEED = 88
 BATCH_SIZE = 64
 
 PRE_GEN_EPOCH_NUM = 120 # supervise (maximum likelihood estimation) epochs 120 -- > 1
-PRE_DIS_EPOCH_NUM = 3   # 50 -> 1
-IN_DIS_EPOCH = 2 # 3 -> 1
-ADV_GEN_EPOCH_NUM = 2
+PRE_DIS_EPOCH_NUM = 5   # 50 -> 1
+IN_DIS_EPOCH = 1 # 3 -> 1
+ADV_GEN_EPOCH_NUM = 3
 ADV_DIS_EPOCH_NUM = 1 # 5 -> 1
 VOCAB_SIZE = 5000
 #########################################################################################
@@ -40,16 +40,24 @@ dis_batch_size = 64
 #########################################################################################
 #  Basic Training Parameters
 #########################################################################################
-TOTAL_BATCH = 200
-positive_file = 'save/real_data.txt'
-negative_file = 'save/generator_sample.txt'
+TOTAL_BATCH = 100
+positive_file = 'tmp/real_data.txt'
+negative_file = 'tmp/generator_sample.txt'
 ## 用来保存分割句子的文件
-positive_file_split = 'save/real_data.split.txt'
-negative_file_split = 'save/generator_sample.split.txt'
-eval_file = 'save/eval_file.txt'
+positive_file_split = 'tmp/real_data.split.txt'
+negative_file_split = 'tmp/generator_sample.split.txt'
+eval_file = 'tmp/eval_file.txt'
 generated_num = 10000
-save_path = 'experiments/model1/'
+save_path = 'experiments/model4/'
 LOG_FILE = os.path.join(save_path, 'experiment-log.txt')
+TARGET_PARAMS = 'save/target_params_py3.pkl'
+restore_from = None
+
+
+if not os.path.exists(save_path):
+    os.mkdir(save_path)
+else:
+    restore_from = tf.train.latest_checkpoint(save_path)
 
 def generate_samples(sess, trainable_model, batch_size, generated_num, output_file):
     # Generate Samples
@@ -159,17 +167,19 @@ def main():
     dis_data_loader = Dis_dataloader(BATCH_SIZE)
 
     generator = Generator(VOCAB_SIZE, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN)
-    target_params = pickle.load(open('save/target_params_py3.pkl', 'rb'))
+    target_params = pickle.load(open(TARGET_PARAMS, 'rb'))
     target_lstm = TARGET_LSTM(VOCAB_SIZE, BATCH_SIZE, EMB_DIM, HIDDEN_DIM, SEQ_LENGTH, START_TOKEN, target_params) # The oracle model
 
     discriminator = Discriminator(sequence_length=20, num_classes=2, vocab_size=VOCAB_SIZE, embedding_size=dis_embedding_dim, 
                                 filter_sizes=dis_filter_sizes, num_filters=dis_num_filters, l2_reg_lambda=dis_l2_reg_lambda)
 
+
+    saver = tf.train.Saver() # saver
+    # 开始 Session
     config = tf.ConfigProto()
     config.gpu_options.allow_growth = True
     sess = tf.Session(config=config)
     sess.run(tf.global_variables_initializer())
-    saver = tf.train.Saver() # saver
 
     # First, use the oracle model to provide the positive examples, which are sampled from the oracle data distribution
     generate_samples(sess, target_lstm, BATCH_SIZE, generated_num, positive_file)

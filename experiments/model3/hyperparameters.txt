@@ -1,0 +1,41 @@
+#########################################################################################
+#  Generator  Hyper-parameters
+######################################################################################
+EMB_DIM = 32 # embedding dimension
+HIDDEN_DIM = 32 # hidden state dimension of lstm cell
+SEQ_LENGTH = 20 # sequence length
+START_TOKEN = 0
+SEED = 88
+BATCH_SIZE = 64
+
+PRE_GEN_EPOCH_NUM = 120 # supervise (maximum likelihood estimation) epochs 120 -- > 1
+PRE_DIS_EPOCH_NUM = 5   # 50 -> 1
+IN_DIS_EPOCH = 1 # 3 -> 1
+ADV_GEN_EPOCH_NUM = 5
+ADV_DIS_EPOCH_NUM = 1 # 5 -> 1
+VOCAB_SIZE = 5000
+#########################################################################################
+#  Discriminator  Hyper-parameters
+#########################################################################################
+dis_embedding_dim = 64
+dis_filter_sizes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20]
+dis_num_filters = [100, 200, 200, 200, 200, 100, 100, 100, 100, 100, 160, 160]
+dis_dropout_keep_prob = 0.75
+dis_l2_reg_lambda = 0.2
+dis_batch_size = 64
+
+#########################################################################################
+#  Basic Training Parameters
+#########################################################################################
+TOTAL_BATCH = 100
+positive_file = 'tmp/real_data.txt'
+negative_file = 'tmp/generator_sample.txt'
+## 用来保存分割句子的文件
+positive_file_split = 'tmp/real_data.split.txt'
+negative_file_split = 'tmp/generator_sample.split.txt'
+eval_file = 'tmp/eval_file.txt'
+generated_num = 10000
+save_path = 'experiments/model4/'
+LOG_FILE = os.path.join(save_path, 'experiment-log.txt')
+TARGET_PARAMS = 'save/target_params_py3.pkl'
+restore_from = None
