@@ -1,0 +1,1009 @@
+Total Epoch 2, Gen Epoch 0, steps 1000, loss 0.19266419112682343
+Total Epoch 2, Gen Epoch 0, steps 2000, loss 0.1550045907497406
+Total Epoch 2, Gen Epoch 0, steps 3000, loss 0.22128424048423767
+Total Epoch 2, Gen Epoch 0, steps 4000, loss 0.1477622389793396
+Total Epoch 2, Gen Epoch 0, steps 5000, loss 0.1290389597415924
+inner epoch: 1 :
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.14336805045604706
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.10563220828771591
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.10855048149824142
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.17063488066196442
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.1069909930229187
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.12930548191070557
+#########################################################################
+Start Adversarial Training...
+Total batch 0 ------------------------------------------
+total_batch:  0 test_loss:  9.045102
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.3418058454990387
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.17220506072044373
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.09246985614299774
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.10516494512557983
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.1269897073507309
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.17045453190803528
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0620080791413784
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05822721868753433
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.04610050469636917
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07926790416240692
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.08655460178852081
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.09730260074138641
+Total batch 1 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.2532360255718231
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.2604314386844635
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.11731281876564026
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.13834980130195618
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.1193496584892273
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.11451175808906555
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.09994930028915405
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.14023242890834808
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07462786883115768
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.11152663081884384
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.09968631714582443
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.08547230809926987
+Total batch 2 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.12716826796531677
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.15555526316165924
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.08280599117279053
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.08242028206586838
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.10728086531162262
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.10266410559415817
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.05635163560509682
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.10463444143533707
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05437024310231209
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07155608385801315
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.058938875794410706
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.07609253376722336
+Total batch 3 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.146526038646698
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.046706393361091614
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05880554020404816
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.08455419540405273
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.11312535405158997
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.055990397930145264
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.042927052825689316
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.02067647874355316
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03808999061584473
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06604346632957458
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.06166715547442436
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.03274945169687271
+Total batch 4 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.09625273197889328
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.06272157281637192
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07313802093267441
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.11279699951410294
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.025085413828492165
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.04640866443514824
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.06643790006637573
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.034257374703884125
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.038567282259464264
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07583914697170258
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.009625613689422607
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.04101689159870148
+Total batch 5 ------------------------------------------
+total_batch:  5 test_loss:  8.897248
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.046491947025060654
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.11457560211420059
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07455869764089584
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.043661653995513916
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05310671031475067
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.07071902602910995
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.025377364829182625
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.019332125782966614
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.06688717007637024
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.022224854677915573
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05939203500747681
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.16801761090755463
+Total batch 6 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.15829990804195404
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.06899135559797287
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.10217644274234772
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.05637853592634201
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.1012175977230072
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.11662816256284714
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.016350138932466507
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05679360032081604
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0716574564576149
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02916988544166088
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.030652910470962524
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.103647381067276
+Total batch 7 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.02133292704820633
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.09408441185951233
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.055735982954502106
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.04007171839475632
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.06470439583063126
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.07103794068098068
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.017510149627923965
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.07383451610803604
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03705776855349541
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02630394697189331
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.029971200972795486
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.03611869364976883
+Total batch 8 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.1792433261871338
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.03407687321305275
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05004419758915901
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.1273650825023651
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.054280295968055725
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.04055962711572647
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.050554126501083374
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.031912416219711304
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.04654867947101593
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.10121016949415207
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.018153967335820198
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.06862130016088486
+Total batch 9 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.008420944213867188
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.06796001642942429
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.04863021895289421
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.030659157782793045
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.04114314168691635
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.04403578117489815
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0071649253368377686
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.006191834807395935
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05302472785115242
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.024251814931631088
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0413658507168293
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.029362564906477928
+Total batch 10 ------------------------------------------
+total_batch:  10 test_loss:  8.761694
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.10482309013605118
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.03273700177669525
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05662134662270546
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06820423901081085
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03293716162443161
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.06317631155252457
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03581470251083374
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.00791989266872406
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05477553978562355
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07426641136407852
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.04901192709803581
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.06815004348754883
+Total batch 11 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.18292704224586487
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.04635057598352432
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.04672303423285484
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.10010333359241486
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.026255454868078232
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05183064937591553
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.018747836351394653
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05182939022779465
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05965445935726166
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07726243883371353
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02261645346879959
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.06469336897134781
+Total batch 12 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.024348484352231026
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.007928126491606236
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.028326258063316345
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.01590014435350895
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.026838595047593117
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.019466884434223175
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0036101837176829576
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005938844755291939
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0168027114123106
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013989318162202835
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03016592189669609
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.009260391816496849
+Total batch 13 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.061393190175294876
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.011525912210345268
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.02721375599503517
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02273537591099739
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.08141226321458817
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.016811374574899673
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.048391371965408325
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.020389553159475327
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.027695681899785995
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.019450509920716286
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.09042120724916458
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.022928034886717796
+Total batch 14 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03988143056631088
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.025039764121174812
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.02812259830534458
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.036398887634277344
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05577963590621948
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0073887682519853115
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.006752184592187405
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.023177551105618477
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004824800882488489
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.045379310846328735
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.04197261109948158
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007609155029058456
+Total batch 15 ------------------------------------------
+total_batch:  15 test_loss:  8.676535
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03453700989484787
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0235750675201416
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00750339962542057
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013911973685026169
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.06880716234445572
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0038551301695406437
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.043948788195848465
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05244791507720947
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.010173717513680458
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.010912937112152576
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0902925580739975
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.005208578892052174
+Total batch 16 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.058385398238897324
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003989030607044697
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00734617467969656
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.10756728798151016
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0273293387144804
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007620456162840128
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.011969359591603279
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005531113129109144
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.003608522703871131
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.04746856912970543
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.021084044128656387
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.008878529071807861
+Total batch 17 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.009218811988830566
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.011759310960769653
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004059719853103161
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.020355839282274246
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.006110546179115772
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.012417266145348549
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.013538721948862076
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.01522901188582182
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0023582845460623503
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.011920331977307796
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005615513306111097
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.004833807237446308
+Total batch 18 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.024045627564191818
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.08213159441947937
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07537011057138443
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.008758625946938992
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.015574858523905277
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0119846872985363
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.032117463648319244
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.10405699908733368
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05288098752498627
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.009686912409961224
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.018664296716451645
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.008331033401191235
+Total batch 19 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.05009208992123604
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005554307717829943
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.005612948443740606
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.015557853505015373
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.023039991036057472
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.003583483397960663
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03143058717250824
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.004898052662611008
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00415419228374958
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0042757438495755196
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.011600769124925137
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0020225788466632366
+Total batch 20 ------------------------------------------
+total_batch:  20 test_loss:  8.605078
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.008324245922267437
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.02164178527891636
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.008267038501799107
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0485244020819664
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.014299063943326473
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.02822764217853546
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.005932279396802187
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.007563063874840736
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.005717551335692406
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0783737301826477
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.011122477240860462
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.004216871224343777
+Total batch 21 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.08181172609329224
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005640575662255287
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.01064283587038517
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.012698110193014145
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03982025012373924
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.1870773881673813
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.06024553254246712
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.00633531529456377
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.008727801032364368
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02455020695924759
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.031698644161224365
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.09933300316333771
+Total batch 22 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.04961846023797989
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0028366006445139647
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00637997779995203
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0031992094591259956
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.017912190407514572
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.01677870750427246
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0057822964154183865
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0013145521515980363
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0027381249237805605
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.002838442102074623
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01128065213561058
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.014836199581623077
+Total batch 23 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.07763627171516418
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.03604881837964058
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03494742140173912
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004106544889509678
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03541986271739006
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0030777063220739365
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.06242646649479866
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0013266350142657757
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.014524631202220917
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.005939924623817205
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03610476851463318
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.002625688910484314
+Total batch 24 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.009538229554891586
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.016343731433153152
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00963438581675291
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.007568901404738426
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03302844613790512
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0045967320911586285
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.007145760580897331
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.004410137888044119
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.024828841909766197
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0031382921151816845
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01308394130319357
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.004840460605919361
+Total batch 25 ------------------------------------------
+total_batch:  25 test_loss:  8.561475
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.014362938702106476
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.04848191514611244
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004872890189290047
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.031703412532806396
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.004807690158486366
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.019502412527799606
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.007132255006581545
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.039294466376304626
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004574173595756292
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06014931574463844
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.004542882554233074
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.026617031544446945
+Total batch 26 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.013268046081066132
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.015220456756651402
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.06947217136621475
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.010957679711282253
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0070146676152944565
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.009972929954528809
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.01962422765791416
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0038923658430576324
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.031398046761751175
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013871051371097565
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.014077773317694664
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007771134842187166
+Total batch 27 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0017820398788899183
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.00740535045042634
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0250638946890831
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.003908408805727959
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01087360642850399
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.008174470625817776
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.00167862290982157
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005201437976211309
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.011010163463652134
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0018107180949300528
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01925029419362545
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.009265043772757053
+Total batch 28 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.04116231948137283
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.007764231879264116
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.048179373145103455
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.009044034406542778
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02753240056335926
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.014381783083081245
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.027753174304962158
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003607611870393157
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.029033096507191658
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.003401963971555233
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02667313441634178
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.011506840586662292
+Total batch 29 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.29508984088897705
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009029929526150227
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.006665469612926245
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.025337405502796173
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.029412882402539253
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.009415047243237495
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.02541848085820675
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009518344886600971
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0019464234355837107
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.03299887478351593
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02061784453690052
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0035468577407300472
+Total batch 30 ------------------------------------------
+total_batch:  30 test_loss:  8.461345
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.01438427809625864
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.013405603356659412
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00273169856518507
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.036819688975811005
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0966465100646019
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.002373552182689309
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.021289175376296043
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.00279427831992507
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00471067987382412
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.03170624375343323
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.08067676424980164
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0023349360562860966
+Total batch 31 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0034185429103672504
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009568565525114536
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.009298543445765972
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00886114314198494
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.028342057019472122
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007588526699692011
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.005094966851174831
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.007241079583764076
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.008572897873818874
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.002046107780188322
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.025296926498413086
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.006409972440451384
+Total batch 32 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.3312295973300934
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.04906350374221802
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.017672592774033546
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.044873837381601334
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.021507035940885544
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.006035269238054752
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03737442567944527
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009270776063203812
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.019738133996725082
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.04265165328979492
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.021095508709549904
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.006258031819015741
+Total batch 33 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.05583528056740761
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.03955184295773506
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0034394534304738045
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02243528887629509
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02398671582341194
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.002805685391649604
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.016009097918868065
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05091504007577896
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.003017257433384657
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02492157369852066
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03620036318898201
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.004216618370264769
+Total batch 34 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.002250857185572386
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.037430908530950546
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.003904891200363636
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004346649162471294
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.008938079699873924
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.005517113022506237
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0023357223253697157
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.022754209116101265
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.002493670443072915
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0032892280723899603
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.014600623399019241
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007153316400945187
+Total batch 35 ------------------------------------------
+total_batch:  35 test_loss:  8.3949
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.018992481753230095
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.020619357004761696
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.02291283756494522
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.008187462575733662
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.029804708436131477
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.14610008895397186
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.020848212763667107
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.02821439877152443
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.016795454546809196
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.008211810141801834
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.019477801397442818
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.027515331283211708
+Total batch 36 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.05933580547571182
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.03893155977129936
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03960733860731125
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.005514136515557766
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02237856760621071
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.03432333096861839
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.02530883625149727
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.054067887365818024
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.05365068465471268
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0029321089386940002
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.007054219953715801
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.003497958881780505
+Total batch 37 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.007119466550648212
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.021779196336865425
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0023581418208777905
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.059273842722177505
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.008735436014831066
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.07815465331077576
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.006791314575821161
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.018745016306638718
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0017229814548045397
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.05823728069663048
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.012631461955606937
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.022965850308537483
+Total batch 38 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.2070174515247345
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.014138416387140751
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.006972487550228834
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.05129161477088928
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01634274423122406
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0703599750995636
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.07465849071741104
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.006713616196066141
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.005316005554050207
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013643384911119938
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.018842963501811028
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05323692411184311
+Total batch 39 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0018850929336622357
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.06282719224691391
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004697185009717941
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02250717394053936
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.028316549956798553
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.02094649150967598
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0011581142898648977
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.04392446577548981
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0017666834173724055
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.023367078974843025
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02914517931640148
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.016398698091506958
+Total batch 40 ------------------------------------------
+total_batch:  40 test_loss:  8.340574
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.009174089878797531
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0032727550715208054
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.021418370306491852
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.03461458161473274
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.020420175045728683
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.019155437126755714
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.00970224104821682
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0024106400087475777
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0071960208006203175
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.031245287507772446
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.021301470696926117
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.025261165574193
+Total batch 41 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.01835358887910843
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003783982479944825
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.007819046266376972
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013616649433970451
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05433543026447296
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.006355169229209423
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.013273642398416996
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0030135884881019592
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.010224171914160252
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004416003357619047
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05590696260333061
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.011783565394580364
+Total batch 42 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.003661222057417035
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009858831763267517
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.008967038244009018
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.016849027946591377
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005729994736611843
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0012751981848850846
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.003299084957689047
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009051190689206123
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.002515543019399047
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.02263588272035122
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0018966952338814735
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.001251566456630826
+Total batch 43 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.005790734197944403
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0492001436650753
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004453408997505903
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004084932617843151
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03576338291168213
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05292506888508797
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.006924922578036785
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003996712155640125
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.003949730657041073
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004305316600948572
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.031081492081284523
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.09282844513654709
+Total batch 44 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.008695556782186031
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0013568918220698833
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0070944493636488914
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.03595198318362236
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.004713937174528837
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05832018703222275
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.010674333199858665
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0008562607690691948
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0065102786757051945
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.056054774671792984
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0063772378489375114
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05291801318526268
+Total batch 45 ------------------------------------------
+total_batch:  45 test_loss:  8.275962
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.002314025769010186
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.005857810378074646
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.011064662598073483
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004828835371881723
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.010788529179990292
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0022153640165925026
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0035980367101728916
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009078366681933403
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.010311420075595379
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0018739874940365553
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.012542364187538624
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0012656900798901916
+Total batch 46 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03650781512260437
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0032466494012624025
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.009099079295992851
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.08030442148447037
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.010228327475488186
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.010937804356217384
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.04377000033855438
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0019431572873145342
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0028621056117117405
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06698682904243469
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.003967346157878637
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007837333716452122
+Total batch 47 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.006428455002605915
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.038331303745508194
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00950497854501009
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.005584163591265678
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.03022807277739048
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05928417667746544
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0073318020440638065
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0027886407915502787
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.011435145512223244
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0036081173457205296
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.031210117042064667
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.05184301733970642
+Total batch 48 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.01013889815658331
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0027521983720362186
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.011213825084269047
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.03360813483595848
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0011812507873401046
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.045878779143095016
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.003423972288146615
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0012912810780107975
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.01211498212069273
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.030019493773579597
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0008055716753005981
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.04772328585386276
+Total batch 49 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.019127577543258667
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003524112980812788
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.06746156513690948
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06329070776700974
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005022019147872925
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0036411515902727842
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.02015390805900097
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0018850583583116531
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07281368225812912
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.07293568551540375
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.004269536584615707
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0021295708138495684
+Total batch 50 ------------------------------------------
+total_batch:  50 test_loss:  8.292454
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.07888856530189514
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0694504901766777
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.007169811520725489
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013432173058390617
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.014952422119677067
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.02656453847885132
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.02640187181532383
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.02064233273267746
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0033150704111903906
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.007308953907340765
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.011675656773149967
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.01721358671784401
+Total batch 51 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.014580813236534595
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.017634311690926552
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.013133810833096504
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.11164561659097672
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.002218423178419471
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0014901927206665277
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0071340869180858135
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0022519018966704607
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.020508205518126488
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.10335461050271988
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0017600350547581911
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0010787275386974216
+Total batch 52 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.010362774133682251
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0017712109256535769
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.07928955554962158
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.01015054527670145
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0014270736137405038
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0156378373503685
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.004240670707076788
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.002398580778390169
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.013121185824275017
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0068414704874157906
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.000985671067610383
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.02734048292040825
+Total batch 53 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.05284790322184563
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.002118342788890004
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.015274264849722385
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.004319826140999794
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.02083851955831051
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.005142659414559603
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.04173216223716736
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.003279266646131873
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.013631328009068966
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.006158911623060703
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.020060574635863304
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.003610145766288042
+Total batch 54 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.015551875345408916
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.006047178991138935
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.01046332623809576
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00876945722848177
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.09070202708244324
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.007168118841946125
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.023986786603927612
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.006746560335159302
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.01244436576962471
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0017131851054728031
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0066352784633636475
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.004230143502354622
+Total batch 55 ------------------------------------------
+total_batch:  55 test_loss:  8.250987
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.008769568055868149
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.04644865542650223
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.006576680578291416
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.010832312516868114
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.015589610673487186
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0040220594964921474
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0036727874539792538
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.022473003715276718
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0006760302348993719
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00826692022383213
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0069350809790194035
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.002199078444391489
+Total batch 56 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.25367799401283264
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.040037527680397034
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.00346201891079545
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.013240465894341469
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005706623662263155
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0006335125071927905
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.001785379834473133
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.05662297084927559
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.002570752054452896
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00844825804233551
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0024338336661458015
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0006466195918619633
+Total batch 57 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0035813224967569113
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.017242785543203354
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.037568580359220505
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.001162004191428423
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005686293356120586
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.02253809943795204
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.007303525693714619
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.009665095247328281
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.005018302239477634
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00115480599924922
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0029384950175881386
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.024767892435193062
+Total batch 58 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.07032127678394318
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0032967927400022745
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.011305341497063637
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.023605618625879288
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.006104023661464453
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0009361571283079684
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.00726794870570302
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0018131593242287636
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.009734435006976128
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.018909798935055733
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.006634857971221209
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0007620489923283458
+Total batch 59 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0024123629555106163
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0071124727837741375
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03506842255592346
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.005298462230712175
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.009842535480856895
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.01810702309012413
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0033619077876210213
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.004942259285598993
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.03948105871677399
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0061983270570635796
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.010732266120612621
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.014138150960206985
+Total batch 60 ------------------------------------------
+total_batch:  60 test_loss:  8.247336
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.004186997190117836
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0030099335126578808
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0019280875567346811
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06521721184253693
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005337171256542206
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.002107761101797223
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.004248789977282286
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.00341201713308692
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004446506034582853
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06964170932769775
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.005234173499047756
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0022322151344269514
+Total batch 61 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.03107924945652485
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.013254439458251
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.001969468081369996
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.05517948418855667
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0008141518337652087
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.027723759412765503
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.008185120299458504
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.007160487584769726
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.0009852577932178974
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.06156013906002045
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0005048072198405862
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.036931801587343216
+Total batch 62 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.002333139767870307
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.01647660881280899
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.09472594410181046
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.005216637160629034
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.01080505084246397
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0012499147560447454
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.002404008060693741
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0028136896435171366
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.08418308943510056
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0025595417246222496
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.010866311378777027
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0008324913214892149
+Total batch 63 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.040828656405210495
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0024689442943781614
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.004914500284940004
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.00982718076556921
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0014213807880878448
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0011796823237091303
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.0031671335455030203
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0018794682109728456
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.005420289468020201
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.006036244332790375
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.0012533850967884064
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.0009333423804491758
+Total batch 64 ------------------------------------------
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.06181216984987259
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0007176419603638351
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.003861769801005721
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.000985730905085802
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05258265137672424
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.010539854876697063
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.025161761790513992
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0006158744217827916
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.002497640671208501
+Total Epoch 2, Gen Epoch 1, steps 3000, loss 0.0011916505172848701
+Total Epoch 2, Gen Epoch 1, steps 4000, loss 0.05599970743060112
+Total Epoch 2, Gen Epoch 1, steps 5000, loss 0.008908978663384914
+Total batch 65 ------------------------------------------
+total_batch:  65 test_loss:  8.247385
+start split for file : save/generator_sample.txt
+success!!!!!!
+Total Epoch 2, Gen Epoch 1, steps 0, loss 0.01911786198616028
+Total Epoch 2, Gen Epoch 1, steps 1000, loss 0.0023050953168421984
+Total Epoch 2, Gen Epoch 1, steps 2000, loss 0.021231485530734062
